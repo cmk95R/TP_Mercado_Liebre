@@ -11,5 +11,4 @@ Trabajo Practico Integrador
 Alumno: Cristian Velazquez 
 
 [linkrepo]: https://github.com/cmk95R/TP_Mercado_Liebre/tree/Estructura_HTML
-
-[linkrepo2] https://github.com/cmk95R/TP_Mercado_Liebre/tree/header_footer_css
+[linkrepo2]: https://github.com/cmk95R/TP_Mercado_Liebre/tree/header_footer_css
