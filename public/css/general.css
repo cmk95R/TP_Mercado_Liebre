@@ -1,0 +1,73 @@
+@import url('https://fonts@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+:root{
+    --amarillo: #EAC926;
+    --azul: #03264C;
+    --celeste: #1259c3;
+    --grisOscuro: #666;
+    --grisClaro: #ebebeb;
+    --verde: #39b54a;
+    --fontSizeTexto: 12px;
+    --fontSizeTitulo: 24px;
+    --fontSizePrecio: 18px;
+    --fontSizeDescuento: 16px;
+    --fontSizeDescripcion: 16px;
+    }
+
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    
+}*/
+
+
+p,li{
+    font-size: var(--fontSizeTexto);
+    font-family: 'Roboto', sans-serif;
+    
+    
+}
+
+h3{
+    font-size: var(--fontSizeTitulo);
+    font-family: 'Roboto', sans-serif;
+    color: var(--grisOscuro);
+}
+
+h4{
+    font-family: 'Roboto', sans-serif;
+    color: var(--grisOscuro);
+}
+
+
+
+.home__header__menu li{
+    list-style: none;
+    
+}
+.home__header__menu li a{
+    text-decoration: none;
+    color: black;
+}
+.home__header__p{
+    font-family: 'Roboto', sans-serif;
+}
+.home__main__section__article__descuento {
+    font-size: var(--fontSizeDescuento);
+    font-family: 'Roboto', sans-serif;
+}
+
+.home__main__section__article__precio {
+    font-size: var(--fontSizePrecio);
+    font-family: 'Roboto', sans-serif;
+    
+}
+.home__header__ul--nav{
+    margin-bottom: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+.home__footer__section__article{
+    font-family: 'Roboto', sans-serif;
+}

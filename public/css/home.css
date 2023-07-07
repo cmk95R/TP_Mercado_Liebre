@@ -1,0 +1,97 @@
+body.home{
+    background-color: #ebebeb;
+    width: 100vw;
+}
+
+
+
+
+
+
+.home header{
+    background-color: var(--amarillo);
+    display: flex;
+    flex-direction: column;
+
+}
+
+.home__header__barrabusqueda form{
+    display: flex;
+}
+
+.home__header__barrabusqueda{
+    width: 50px;
+}
+
+.home__header__logo{
+    width: 150px;
+    
+}
+.home__header__p{
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    
+}
+
+.home__header__menu{
+    margin-bottom: 10px;
+}
+
+.home__header__menu ul{
+    padding: 0;
+}
+
+.home__header__ul--nav{
+    margin-bottom: 20px;
+}
+
+
+.home__header__barrabusqueda form input{
+    border: 1px solid var(--grisOscuro);
+}
+
+.burger-menu{
+    width: 30px;
+    height: 30px;
+    background-color: var(--celeste);
+    text-align: center;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.burger-menu i{
+    margin-top: 7px;
+    color: white;
+    
+}
+
+
+
+
+.home__footer{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+.home__footer__icono{
+    font-size: 2em;
+    color: var(--celeste);
+    text-align: center;
+}
+
+.home__footer h4, .home__footer p{
+    color: var(--grisOscuro);
+    text-align: center;
+}
+
+.home__footer__section__article{
+    margin-bottom: 10px;
+}
+
+.home__footer h6{
+    color: var(--grisOscuro);
+}
