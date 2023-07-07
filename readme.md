@@ -1,11 +1,13 @@
 Trabajo Practico Digital House - FORMAR
 ---------------------------------------
 
-1 --[Estructura HTML][linkrepo]
+Trabajo Practico Digital House - FORMAR
+---------------------------------------
+Agregando Estilos "Mercado Liebre"
 
-Mercado Liebre (Estructura HTML)
+Header y Footer
+
 
 Alumno: Cristian Velazquez 
 
 
-[linkrepo]: https://github.com/cmk95R/TP_Mercado_Liebre
