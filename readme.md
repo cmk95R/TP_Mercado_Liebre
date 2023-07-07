@@ -1,9 +1,8 @@
 Trabajo Practico Digital House - FORMAR
 ---------------------------------------
 
-1 --[Estructura HTML][linkrepo]
+Header y Footer
 
-Mercado Liebre (Estructura HTML)
 
 Alumno: Cristian Velazquez 
 
