@@ -1,7 +1,7 @@
 Trabajo Practico Digital House - FORMAR
 ---------------------------------------
 
-Header y Footer
+Diseño Adaptativo
 
 
 Alumno: Cristian Velazquez 
