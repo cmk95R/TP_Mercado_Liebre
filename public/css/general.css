@@ -51,9 +51,7 @@ h4{
     text-decoration: none;
     color: black;
 }
-.home__header__p{
-    font-family: 'Roboto', sans-serif;
-}
+
 .home__main__section__article__descuento {
     font-size: var(--fontSizeDescuento);
     font-family: 'Roboto', sans-serif;
@@ -64,10 +62,4 @@ h4{
     font-family: 'Roboto', sans-serif;
     
 }
-.home__header__ul--nav{
-    margin-bottom: 20px;
-    font-family: 'Roboto', sans-serif;
-}
-.home__footer__section__article{
-    font-family: 'Roboto', sans-serif;
-}
+
