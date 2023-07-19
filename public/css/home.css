@@ -171,12 +171,12 @@ body.home {
 
 .sectionOfertas {
   display: none;
-  /*para visualizar una sóla section*/
+
 }
 
 .home article.noneDisplay-mobile{
   display: none;
-  /*para que se vea un sólo articulo en mobile*/
+ 
 }
 
 /*----------------------------------------------------------------------------------------------------------*/

@@ -1,7 +1,7 @@
 Trabajo Practico Digital House - FORMAR
 ---------------------------------------
 
-Diseño Adaptativo
+Posicionamiento Avanzado FlexBox
 
 
 Alumno: Cristian Velazquez 
