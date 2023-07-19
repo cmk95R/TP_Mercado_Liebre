@@ -9,7 +9,7 @@ Trabajo Practico Integrador
 
 -- [Adaptativo "Diseño Adaptativo"][linkrepo3] 
 
--- [FlexBox "Posicinamiento Avanzadp"][linkrepo4]
+-- [FlexBox "Posicinamiento Avanzado"][linkrepo4]
 
 Alumno: Cristian Velazquez 
 
