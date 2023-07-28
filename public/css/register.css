@@ -1,0 +1,111 @@
+
+.register__main{
+    width: 100%;
+    padding: 25px;
+}
+.register__main__form,
+.register__main__form--FNac{
+    display: flex;
+    flex-direction: column;
+}
+
+.register__main__form{
+padding: 10px;
+border-radius: 5px;
+box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.register__main__form--input{
+    height: 35px;
+    border: 0;
+    margin-bottom: 5px;
+    border-radius: 8px;
+    outline: none;
+}
+
+.register__main--registrate{
+    display: flex;
+    align-items: center;
+}
+
+.register__main__form--titulo{
+    text-align: left;
+    font-size: 18px;
+    font-family: roboto;
+    /* margin: 10px auto; */
+}
+
+.register__main__form--radioContainer{      
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    background: white;
+    height: 35px;
+    border-radius: 8px;
+    align-items: center;
+}
+.register__main__form--fotoPerfil{
+    display: flex;
+    gap: 25px;
+    justify-content: center;
+    background: white;
+    height: 35px;
+    border-radius: 8px;
+    align-items: center;
+}
+.register__main__form--radioContainer input{
+    margin-right: 5px;
+}
+
+.register__main__form--checkButtonContainer{
+    display: flex;
+    
+    justify-content: center;
+    background: white;
+    height: 70px;
+    border-radius: 8px;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.register__main__form--buttonContainer a{
+    text-decoration: none;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+}
+
+.register__main__form--buttonContainer{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+.register__main__form--enviar,
+.register__main__form--borrar{
+    height: 35px;
+    background: var(--azul);
+    color: white;
+    margin-top: 25px;
+    border-radius: 8px;
+    border: 0;
+    box-shadow: 1px 1px 1.5px #666;
+    width: 50%;
+}
+
+@media (min-width: 1024px){
+    .register__main__form{
+        width: 50%;
+        margin: 0 auto;
+    }
+    
+    .register__main__form--buttonContainer{
+    justify-content: space-evenly;
+    }
+
+    .register__main__form--enviar,
+    .register__main__form--borrar
+    { 
+        width: 25%;
+    }
+
+}
