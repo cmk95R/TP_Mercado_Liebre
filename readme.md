@@ -1,19 +1,32 @@
-#Trabajo Practico Digital House - FORMAR
------------------------------------------
-Trabajo Practico Integrador 
-"Mercado Liebre"
 
--- [Estructura HTML][linkrepo]
+# Trabajo Practico Integrador 
+## Fundacion FORMAR - Digital House 
 
--- [Agregando Estilos "Header & Footer][linkrepo2]
+### MercadoLiebre
 
--- [Adaptativo "Diseño Adaptativo"][linkrepo3] 
+#### Alumno
 
--- [FlexBox "Posicinamiento Avanzado"][linkrepo4]
+[Cristian Velazquez](https://github.com/cmk95R)  
+ Edad: 27 años.
+ Estudiante - Tecnicatura Desarrollo de Software
 
-Alumno: Cristian Velazquez 
+ ### Índice
 
-[linkrepo]: https://github.com/cmk95R/TP_Mercado_Liebre/tree/Estructura_HTML
-[linkrepo2]: https://github.com/cmk95R/TP_Mercado_Liebre/tree/header_footer_css
-[linkrepo3]: https://github.com/cmk95R/TP_Mercado_Liebre/tree/adaptative
-[linkrepo4]:https://github.com/cmk95R/TP_Mercado_Liebre/tree/flexbox_advanced
+*[Estructura HTML](https://github.com/cmk95R/TP_Mercado_Liebre/tree/Estructura_HTML)
+
+*[Header & Footer "Css"](https://github.com/cmk95R/TP_Mercado_Liebre/tree/header_footer_css)
+
+*[Adaptativo](https://github.com/cmk95R/TP_Mercado_Liebre/tree/adaptative)
+
+*[FlexBox Avanzado](https://github.com/cmk95R/TP_Mercado_Liebre/tree/flexbox_advanced)
+
+*[Formulario "Register & Login"](https://github.com/cmk95R/TP_Mercado_Liebre/tree/formularioylogin)
+
+*[Animaciones "Organizando Elementos"](https://github.com/cmk95R/TP_Mercado_Liebre/tree/animaciones)
+
+
+### Tecnologia usada
+- ![Static Badge](https://img.shields.io/badge/CSS%2CHTML-blue)
+- ![Static Badge](https://img.shields.io/badge/NodeJS-gold)
+- ![Static Badge](https://img.shields.io/badge/JavaScript-yellow)
+- ![Static Badge](https://img.shields.io/badge/Git-purple)
