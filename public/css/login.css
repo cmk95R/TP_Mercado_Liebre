@@ -35,7 +35,11 @@
     text-decoration: none;
     text-align: center;
     font-family: roboto;
+    transition: background-color 0.3s;;
     
+}
+.login__main__form--enviar:hover{
+    background: #0022AA;
 }
 
 .login__main__form span{

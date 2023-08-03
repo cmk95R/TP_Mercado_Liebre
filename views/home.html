@@ -8,7 +8,7 @@
     <script src="https://kit.fontawesome.com/df7032ec01.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="/css/style.css">
     
-    <title>Home</title>
+    <title>Home-MercadoLiebre</title>
   </head>
   <body class="home">
     <header class="home_header">
@@ -39,10 +39,12 @@
           <li><a href="login.html">Ingresá</a><i class="fa-solid fa-right-to-bracket"></i></li>
           <li><a href="#MisCompras">Mis compras</a><i class="fa-solid fa-basket-shopping"></i></li>
         </ul>
-        <div class="burger-menu">
-          <i class="fas fa-bars"></i>
-          </div>  
       </nav>
+        <div class="burger-menu">
+          <a onclick="document.querySelector('.home__header__menu').classList.toggle('showmenu')">
+          <i class="fas fa-bars"></i></a>
+          </div>  
+      
     </header>
 
 
@@ -54,7 +56,7 @@
       <section class="main__section--ofertas">
         <h3>Basado en tu última visita</h3>
         <div class="home__main-articleBox">
-          <article class="noneDisplay-mobile displayTablet">
+          <article>
                <div>
                   <img src="/images/img-cafetera-moulinex.jpg" alt="Cafetera Moulinex">
               </div>
@@ -62,7 +64,8 @@
               <i class="fa-solid fa-truck" ></i>
               <p class="home__main__section__article__precio">$6.770</p>
               <p class="home__main__section__article__descuento">40% OFF</p>
-              <h4>Cafetera Moulinex</h4></div>
+              <h4>Cafetera Moulinex</h4>
+            </div>
           </article>
           <article>
               <div>
@@ -95,11 +98,13 @@
            <p class="home__main__section__article__descuento">5% off</p>
            <h4>SmartTv Samsung 43</h4></div>
             </article>
-        </div>  
+          </div>
     </section>
       
-      <section class="main__section--ofertas sectionOfertas">
-        <h3>Ofertas</h3>
+    
+      <section class="main__section--ofertas ">
+      <h3>Ofertas</h3> 
+        <div class="home__main-articleBox">          
         <article>
           <div>
              <img src="/images/img-cafetera-moulinex.jpg" alt="Cafetera Moulinex">
@@ -109,7 +114,7 @@
          <p class="home__main__section__article__precio">$6.770</p>
          <p class="home__main__section__article__descuento">40% OFF</p>
          <h4>Cafetera Moulinex</h4></div>
-     </article>
+        </article>
         <article>
           <div>
             <img
@@ -123,7 +128,7 @@
           <p class="home__main__section__article__descuento"10% OFF>20% OFF</p>
           <h4>MacBook Pro 2019</h4></div>
         </article>
-        <article>
+        <article class="noneDisplay-mobile " >
           <div>
             <img
               src="/images/img-samsung-galaxy-s10.jpg"
@@ -136,7 +141,7 @@
           <p class="home__main__section__article__descuento"10% OFF>10% OFF</p>
           <h4>Samsung Galaxy S10</h4></div>
         </article>
-        <article>
+        <article class="noneDisplay-mobile">
           <div>
              <img src="/images/img-tv-samsung-smart.jpg" alt="tv samsung smart">
          </div>
@@ -145,19 +150,21 @@
          <p class="home__main__section__article__precio">$23.200</p>
          <p class="home__main__section__article__descuento">5% off</p>
          <h4>SmartTv Samsung 43</h4></div>
-          </article>
+        </article>
+        </div>
       </section>
+    
     </main>
 
     <footer class="home__footer">
-      <section class =home__footer__section "">
+      <section class ="home__footer__section" >
         <article class="home__footer__section__article">
         <div class="home__footer__icono"><i class="fa-solid fa-credit-card"></i></div>
         <h4>Pagá con tarjeta o en efectivo</h4>
         <p>Con MercadoLiebre Cash tenés cuotas sin interes con tarjeta o efectivo en puntos de pago. ¡Y siempre es seguro!</p>
         </article>
       </section>
-      <section>
+      <section class ="home__footer__section">
         <article class="home__footer__section__article">
           <div class="home__footer__icono">
           <i class="fa-solid fa-gift"></i>
@@ -166,16 +173,16 @@
         <p>Solo por estar registrado en Mercado Liebre tenes envíos gratis en miles de productos. Es Un beneficio de Mercado Puntos. </p>
         </article>
       </section>
-      <Section>
+      <Section class ="home__footer__section">
         <article class="home__footer__section__article">
           <div class="home__footer__icono"><i class="fa-solid fa-user-shield"></i></div>
         <h4>Seguridad de principio a fin</h4>
         <p>
         ¿No te gusta?¡Devolvelo! En MercadoLiebre no hay nada que no puedas hacer porque estas siempre protegid@.
         </p>
-        
         </article>
       </Section>
+      <section class="home__footer__section--copyr">
         <h6>Copyiright © 1999.2020 MercadoLiebre S.R.L</h6>
         <p>CMK-DEV</p>
       </section>
