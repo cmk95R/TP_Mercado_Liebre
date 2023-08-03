@@ -1,7 +1,6 @@
-Trabajo Practico Digital House - FORMAR
+Trabajo Practico Integrador Digital House - FORMAR
 ---------------------------------------
-
-Formularios - Practica Integradora
+Animaciones - Organizando Elementos
 
 
 Alumno: Cristian Velazquez 
